@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "iote3pesantez": {
+      "hosting": {
+        "app": [
+          "iote3pesantez"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "iote3pesantez"
+  }
+}
